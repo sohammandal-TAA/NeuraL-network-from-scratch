@@ -1,3 +1,6 @@
 Non_SGD/test.csv
 Non_SGD/train.csv
+SGD/test.csv
+SGD/train.csv
+__pycache__/
 .DS_Store
